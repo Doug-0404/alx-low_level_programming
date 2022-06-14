@@ -47,6 +47,6 @@
 			}
 		}
 	}
-	printf("%s",pasword);
+	printf("%s",password);
 	return (0);
 }
